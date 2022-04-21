@@ -158,7 +158,8 @@ transition: 0.5s;
 
 }
 button:hover{
-    height:50px;
+    border-color:rgb(40,54,66);
+ background-color:rgb(40,54,66);
     
 }
 
