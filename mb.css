@@ -1,0 +1,116 @@
+.cardflex{
+    display: flex;
+    flex-direction: row;
+
+}
+.stress{
+    margin-left:400px;
+    font-size: 30px;
+}
+.card1{
+    
+    border-width: 1px;
+    border-radius: 20px;
+    width:300px;
+    height:680px;
+    margin-top:10px;
+    background-color:rgba(97, 2, 250, 0.952);
+    color: white;
+    text-align: center;
+    margin-left: 20px;
+}
+.yo{
+    font-size: 40px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    line-height: 30px;
+    padding-top: 25px;
+}
+.card2{
+    
+    border-width: 1px;
+    border-radius: 20px;
+    width:300px;
+    height:530px;
+    margin-top:170px;
+    background-color:whitesmoke;
+    padding-bottom: 100px;
+    color: black;
+    text-align: center;
+    margin-left: 20px;
+}
+.ugh{
+    float:left;
+    margin-right: 100px;
+    margin-top:20px;
+}
+
+.left{
+    float:left;
+    margin-left:10px;
+}
+.right2{
+ 
+    float:right;
+    
+    margin-left:100px;  
+}
+.right{
+    float:right;
+    margin-right: 10px;
+}
+
+button{
+    background-color: blue;
+    border:105px;
+    border-radius:8px;
+    color: white;
+}
+
+.card3{
+    
+    border-width: 1px;
+    border-radius: 20px;
+    width:300px;
+    height:530px;
+    margin-top:170px;
+    background-color:blue;
+    padding-bottom: 100px;
+    color: black;
+    text-align: center;
+    margin-left: 20px;
+}
+
+.ugh2{
+    float:left;
+    margin-right: 130px;
+    margin-top:40px;
+    color:white;
+}
+
+.left2{
+    float:left;
+    margin-left:10px;
+    color:white;
+}
+.right21{
+ 
+    float:right;
+    color:white;
+    margin-left:160px;
+    margin-top: 10px;  
+}
+.right20{
+    float:right;
+    margin-right: 10px;
+    color:white;
+}
+.white{
+    color:white;
+}
+
+.button2{
+    background-color: white;
+    border:500px;
+    border-radius:8px;
+    color: black;
+}

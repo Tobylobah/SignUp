@@ -1,0 +1,109 @@
+body{
+    background-color: rgba(207, 24, 54, 0.7);
+    height:600px;
+}
+
+.card-cover{
+    border-width: 2px;
+    border-radius: 10px;
+    width:1300px;
+    height:550px;
+    margin:auto;
+    margin-top:15px;
+    background-color:white;
+}
+.yo{
+    padding-left:15px;
+}
+
+
+nav {
+    display: flex;
+    padding: 8px 12px;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-links {
+    flex: 1;
+    text-align: center;
+} 
+
+.nav-links ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 8px 12px;
+    position: relative;
+}
+
+.nav-links ul li a {
+    color: black;
+    text-decoration: none;
+    font-size: 13px;
+}
+.nav-links ul li::after {
+    content: '';
+    width: 0%;
+    height: 2px;
+    background: #f44336;
+    display: block;
+    margin: auto;
+    transition: 0.5s; 
+}
+
+.nav-links ul li:hover::after {
+    width: 100%;
+}
+.fuu{
+  
+    padding-top: 100px;
+   text-align: center;
+  
+
+}
+.small{
+    font-size: small !important;
+    padding-top: 10px;
+    padding-right: 30px;
+
+}
+.button1{
+    background-color: rgb(139, 183, 223);
+font-size: small;
+line-height: 30px;
+    border-radius: 2px;
+    border-width: 1px;
+    border:30px;
+    margin-right: 350px !important;
+}
+img{
+    width:500px;
+    height: 400px;
+    margin-left:100px;
+}
+.flex{
+    display: flex;
+    flex-direction: row-reverse;
+}
+.bu{
+    margin-bottom: 400px;
+}
+
+.button2{
+    background-color: rgb(139, 183, 223);
+font-size: small;
+line-height: 30px;
+    border-radius: 5px;
+    border-width: 1px;
+    border:30px;
+    margin-left: 200px;
+}
+i{
+    color:#f44336;
+   
+}
+
+.myimage img{
+    width:30px;
+    height:40px;
+
+}
